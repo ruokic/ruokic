@@ -1,11 +1,14 @@
 ## 😃 안녕하세요! 지현배입니다.
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ruokic.notion.site/6f48b22941b047819a56610c6db74182)
 - 웹 프론트엔드 개발자입니다.
 
+## 🏢 경력
+- TmaxEduAI (2024. 8. ~ 2024. 10.)
+
 ## 📕 기술스택
-[![Main](https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,nextjs,yarn,nodejs,git,github)](https://skillicons.dev)
-[![Experienced](https://skillicons.dev/icons?i=sass,styledcomponents,nodejs,redux,vue,c,py,django,express)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=graphql,rust)](https://skillicons.dev)
+
+|언어|라이브러리|스타일링|기타|
+|---|---|---|---|
+|[![Language](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)|[![Library](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)|[![Main](https://skillicons.dev/icons?i=tailwind,sass,styledcomponents)](https://skillicons.dev)|[![Main](https://skillicons.dev/icons?i=npm,yarn,nodejs,git,github)](https://skillicons.dev)|
 
 ## 🎓 교육이력
 - 광운대학교 전자공학과 (2012. 3 ~ 2020. 2)
@@ -22,3 +25,5 @@
   - [AI 학습용 이미지 생성 서비스, Ganda](https://github.com/ruokic/ssafy-ganda)
 - 네이버 부스트 캠프 (2023. 7 ~ 2023. 12)
   - [알고리즘 문제풀이 게임, Code Clash](https://github.com/ruokic/web06-CodeClash)
+- 개인 프로젝트
+  - [잡동사니 모음, Jobdongsanee](https://github.com/ruokic/jobdongsanee)
