@@ -26,4 +26,5 @@
 - 네이버 부스트 캠프 (2023. 7 ~ 2023. 12)
   - [알고리즘 문제풀이 게임, Code Clash](https://github.com/ruokic/web06-CodeClash)
 - 개인 프로젝트
+  - [사진 이름 편집 도구, pic2pick](https://github.com/ruokic/pic2pick)
   - [잡동사니 모음, Jobdongsanee](https://github.com/ruokic/jobdongsanee)
